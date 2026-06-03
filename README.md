@@ -2,6 +2,13 @@
 
 Proyecto de calculadora con integración continua usando GitHub Actions y PHPUnit.
 
+## Funcionalidades
+
+- Sumar
+- Restar
+- Multiplicar
+- Dividir (con validación de división por cero)
+
 ## Badge
 
 ![CI Status](https://github.com/LUISVTP/MycalculatorParcial/actions/workflows/php-ci.yml/badge.svg)
